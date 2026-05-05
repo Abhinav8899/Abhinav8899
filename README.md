@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Developer;Autonomous+Systems+Researcher;Compiler+Architecture+Enthusiast" alt="Typing SVG" />
 
-I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing in **autonomous systems, path planning algorithms, and compiler architecture**. My work bridges robotics, optimization, and language design with a focus on high-performance implementations. When I step away from my dual-boot Linux setup, you can usually find me out on a quiet walk with some music, or trying to capture the perfect astrophotography or lightning shot.
+I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing in **autonomous systems, path planning algorithms, and compiler architecture**. My work bridges robotics, optimization, and language design with a focus on high-performance implementations. When I step away from my setup, you can usually find me out trying to capture the perfect Solar-photography or lightning shot.
 
 </div>
 
