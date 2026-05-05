@@ -15,7 +15,7 @@ I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinav8899&theme=dark&background=0D1117&border=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)](https://git.io/streak-stats)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav8899&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav8899&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
 
