@@ -30,6 +30,9 @@ I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **AI, ML & Algorithms**  
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=openaigym&logoColor=white) ![Path Planning](https://img.shields.io/badge/Path_Planning-4B0082?style=for-the-badge&logo=probot&logoColor=white) ![Algorithms](https://img.shields.io/badge/RRT*_%7C_A*_%7C_Dijkstra-0052CC?style=for-the-badge&logo=codeforces&logoColor=white) 
 
