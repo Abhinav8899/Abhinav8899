@@ -13,12 +13,14 @@ I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhinav8899&theme=dark&background=0D1117&border=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&v=1" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&bg_color=0D1117&hide_border=true&title_color=2196F3&text_color=8b949e&v=1" alt="Top Languages" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8899&bg_color=0D1117&hide_border=true&color=2196F3&line=2196F3&point=ffffff&title_color=2196F3&area=true&area_color=2196F3" alt="Contribution Graph" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinav8899&theme=dark&background=0D1117&border=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&bg_color=0D1117&hide_border=true&title_color=2196F3&text_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8899&bg_color=0D1117&hide_border=true&color=2196F3&line=2196F3&point=ffffff&title_color=2196F3&area=true&area_color=2196F3" alt="Contribution Graph" width="100%" />
+
 </div>
 
 ---
