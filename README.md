@@ -13,8 +13,8 @@ I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8899&show_icons=true&bg_color=0D1117&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8b949e" alt="Abhinav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&bg_color=0D1117&hide_border=true&title_color=2196F3&text_color=8b949e" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinav8899&theme=dark&background=0D1117&border=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&bg_color=0D1117&hide_border=true&title_color=2196F3&text_color=8b949e&v=1" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
