@@ -13,12 +13,12 @@ I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8899&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8b949e" alt="Abhinav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=8b949e" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8899&show_icons=true&bg_color=0D1117&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8b949e" alt="Abhinav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&bg_color=0D1117&hide_border=true&title_color=2196F3&text_color=8b949e" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8899&theme=transparent&hide_border=true&color=2196F3&line=2196F3&point=ffffff" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8899&bg_color=0D1117&hide_border=true&color=2196F3&line=2196F3&point=ffffff&title_color=2196F3&area=true&area_color=2196F3" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
