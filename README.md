@@ -1,126 +1,94 @@
-## Hi there 👋 I'm Abhinav
+<div align="center">
+  
+# Hi there 👋 I'm Abhinav
 
-I'm a passionate **Software Engineer & AI/ML Developer** specializing in **autonomous systems, path planning algorithms, and compiler architecture**. My work bridges robotics, optimization, and language design with a focus on high-performance implementations.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Developer;Autonomous+Systems+Researcher;Compiler+Architecture+Enthusiast" alt="Typing SVG" />
+
+I am a CSE B.Tech student at Rajkiya Engineering College, Kannauj, specializing in **autonomous systems, path planning algorithms, and compiler architecture**. My work bridges robotics, optimization, and language design with a focus on high-performance implementations. When I step away from my dual-boot Linux setup, you can usually find me out on a quiet walk with some music, or trying to capture the perfect astrophotography or lightning shot.
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav8899&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8b949e" alt="Abhinav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav8899&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=8b949e" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav8899&theme=transparent&hide_border=true&color=2196F3&line=2196F3&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI, ML & Algorithms**  
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=openaigym&logoColor=white) ![Path Planning](https://img.shields.io/badge/Path_Planning-4B0082?style=for-the-badge&logo=probot&logoColor=white) ![Algorithms](https://img.shields.io/badge/RRT*_%7C_A*_%7C_Dijkstra-0052CC?style=for-the-badge&logo=codeforces&logoColor=white) 
+
+**OS & Workflow**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 **Autonomous Systems & Path Planning**
+### 🤖 Autonomous Systems & Path Planning
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| **[Hybrid ChOA-DQN Path Planning](https://github.com/Abhinav8899/UAV-path-planning-using-RRT--DQN)** | Hybrid path planning combining RRT* with Deep-Q-Network for dynamic environments. | 🤖 RL-based optimization <br> 🎯 Classical & learning integration |
+| **[3D RRT* for UAVs](https://github.com/Abhinav8899/Rapidly-exploring-Random-Tree-Star)** | 3D Rapidly-exploring Random Tree Star algorithm implementation for autonomous vehicles. | 🌳 Robust 3D trajectory generation <br> ⚠️ Complex collision detection |
+| **[Improved Dijkstra 3D](https://github.com/Abhinav8899/Improved-dijkstra-path-planning-in-3D-environment)** | Optimized 3D A*/Dijkstra path planner utilizing voxel-based grid search. | 🧊 18-direction movement <br> 🎯 Heuristic-driven optimization |
 
-#### [Smart-mini-C-Compiler](https://github.com/Abhinav8899/Smart-mini-C-compiler)
-*An advanced compiler architecture for a custom C-like language*
-- **Stack**: C, Yacc, Lex (70.7% C, 18.1% Yacc, 7% Lex)
-- 🎯 Scoped symbol table with scope management
-- 🧠 AI-assisted "Did you mean?" error correction
-- ⚡ In-place AST optimization
-- 🔄 Three-Address Code (TAC) generation
+### 🧠 Compilers & Optimization
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| **[Smart-mini-C-Compiler](https://github.com/Abhinav8899/Smart-mini-C-compiler)** | Advanced compiler architecture for a custom C-like language featuring constant folding and dead code elimination. | 🎯 Scoped symbol tables <br> 🧠 AI "Did you mean?" corrections |
+| **[Adaptive GWO](https://github.com/Abhinav8899/Adaptive-grey-wolf-optimization-GWO-)** | Bio-inspired metaheuristic (AGWO) optimized for 3D path planning and robotic trajectories. | 🐺 Adaptive recovery logic <br> 🌍 Complex obstacle navigation |
 
-#### [Rapidly-exploring-Random-Tree-Star (RRT*)](https://github.com/Abhinav8899/Rapidly-exploring-Random-Tree-Star)
-*3D RRT* algorithm implementation for UAVs*
-- **Language**: Python (100%)
-- 🌳 Robust path planning for autonomous vehicles
-- ⚠️ Collision detection for spherical & box obstacles
-- 📊 Performance benchmarking for optimal trajectory analysis
-
-#### [UAV Path Planning Using RRT* + DQN](https://github.com/Abhinav8899/UAV-path-planning-using-RRT--DQN)
-*Hybrid path planning combining RRT* with Deep-Q-Network*
-- **Language**: Python (100%)
-- 🤖 Reinforcement learning-based optimization
-- 🎯 Integration of classical and learning-based approaches
-
-#### [Improved Dijkstra 3D Path Planner](https://github.com/Abhinav8899/Improved-dijkstra-path-planning-in-3D-environment)
-*Optimized 3D A*/Dijkstra path planner for complex environments*
-- **Language**: Python (100%)
-- 🧊 Voxel-based grid search
-- 🔀 18-direction movement support
-- 🎯 Heuristic-driven optimization for mathematically shortest paths
-
-### 🎓 **Optimization & ML Algorithms**
-
-#### [A* Search Algorithm](https://github.com/Abhinav8899/AStar)
-*High-performance pathfinding implementation*
-- **Language**: Python (100%)
-- 🧩 Modular heuristic support
-- 📈 Automated performance benchmarking
-
-#### [Adaptive Grey Wolf Optimization (AGWO)](https://github.com/Abhinav8899/Adaptive-grey-wolf-optimization-GWO-)
-*Bio-inspired metaheuristic for 3D path planning*
-- **Language**: Python (100%)
-- 🐺 Adaptive recovery logic for complex obstacles
-- 🚁 Optimized for UAVs and robotics trajectories
-- 🌍 3D environment path planning
-
-### 📡 **Emerging Technologies**
-
-#### [Low-Latency Communication in Internet of Drones](https://github.com/Abhinav8899/Low-Latency-communication-in--internet-of-drones)
-*Next-generation IoT communications for swarms*
-- **Language**: Python (100%)
-- 🌐 Distributed drone network architecture
-- ⚡ Ultra-low latency protocols
-
----
-
-## 💻 Tech Stack
-
-| **Category** | **Technologies** |
-|---|---|
-| **Languages** | Python, C, JavaScript |
-| **Compilers & Parsers** | Yacc, Lex, AST Optimization |
-| **AI/ML** | Deep Q-Networks, Reinforcement Learning |
-| **Robotics & Autonomy** | Path Planning, Motion Planning, Collision Detection |
-| **Algorithms** | RRT*, A*, Dijkstra, Metaheuristics (GWO) |
-| **Tools** | Git, Make, Shell Scripting |
+### 📡 Emerging Technologies
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| **[IoD Low-Latency Comm](https://github.com/Abhinav8899/Low-Latency-communication-in--internet-of-drones)** | Next-generation IoT communications for distributed drone network architectures. | 🌐 Swarm architecture <br> ⚡ Ultra-low latency protocols |
 
 ---
 
 ## 🎯 Core Competencies
 
-✅ **Algorithm Design & Optimization** – Advanced pathfinding, search, and metaheuristic algorithms  
-✅ **Compiler Design** – Lexing, parsing, AST optimization, TAC generation  
-✅ **Robotics & UAVs** – Autonomous navigation, collision avoidance, 3D environment planning  
-✅ **Machine Learning** – RL, DQN, neural network integration  
-✅ **Performance Optimization** – Benchmarking, profiling, high-performance implementations  
-✅ **Software Architecture** – Modular design, scoped symbol tables, error handling  
-
----
-
-## 📊 Repository Highlights
-
-- **7+ Active Projects** spanning compiler design, robotics, and AI
-- **100% Python** implementations for data science & robotics projects
-- **Custom C Compiler** with advanced language features
-- **Bio-inspired algorithms** for complex optimization problems
-- **3D Spatial Computing** with collision detection
+- **Algorithm Design & Optimization** – Advanced pathfinding, search, and metaheuristic algorithms (ChOA, GWO)
+- **Compiler Design** – Lexing, parsing, AST optimization, TAC generation
+- **Robotics & UAVs** – Autonomous navigation, collision avoidance, 3D environment planning
+- **Machine Learning** – RL, DQN, neural network integration
+- **Software Architecture** – Modular design, scoped symbol tables, Linux-based development environments
 
 ---
 
 ## 🌱 Currently Exploring
 
+- 🛡️ Verifiable DSLs for Privacy (guaranteeing Differential Privacy at the front-end)
 - 🚁 Advanced UAV swarm coordination
 - 🧠 Hybrid classical-learning path planning approaches
-- 📱 IoT communication protocols for autonomous systems
 - 🔄 Real-time AST optimization techniques
 
 ---
 
 ## 💬 Let's Connect!
 
-- 💼 **GitHub**: [github.com/Abhinav8899](https://github.com/Abhinav8899)
-- 📧 **Open to collaborations** on robotics, AI, and compiler design projects
-- 🤝 **Interested in**: Research partnerships, open-source contributions, startup ventures
+<div align="center">
+  <a href="https://github.com/Abhinav8899">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
----
-
-## 📈 Key Stats
-
-```
-🐍 Python: ~80% of projects
-📜 C & Compiler Design: ~10% of projects  
-🌐 Web & Infrastructure: ~10% of projects
-```
-
----
+<br>
 
 **"Building intelligent systems that navigate complexity."** 🚀
-
